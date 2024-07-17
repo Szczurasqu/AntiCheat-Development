@@ -1,1 +1,1 @@
-# AntiCheat-Development
+# Licencja Własnościowa
