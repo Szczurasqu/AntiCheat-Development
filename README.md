@@ -12,7 +12,7 @@
 - Cele korzystania z kodu: Autor oprogramowania zezwala na korzystanie z użytkowanie z kodu jako zabezpieczenie na serwerze Multi Theft Auto: San Andreas zgodnie z regulaminem aplikacji.
 
 ## Kontakt do deweloperów 
-### Twórca kodu Mysteyam
+### Twórca kodu - Mysteyam
 - Mail: projectcashmta@gmail.com
 - Discord: mysteyam
   
@@ -21,4 +21,14 @@
 
 ## Cel systemu
 **FairPlay** to system __anticheat__ który został utworzony z myślą o twórcach serwerów na polskiej scenie Multi Theft Auto: San Andreas *(MTA:SA)*. Został on napisany przez napiętą sytuację, na jednym z zaprzyjaźnionych mi serwerów, która z czasem stała się irytująca, a ja dostałem od tego serwera zlecenie na napisanie kodu. Jednakże postanawiam wam go udostępnić, a raczej jego drobną część. Po zakup całego systemu, zachęcam kontaktować się mailem bądź poprzez Discord. System ma na celu ochronę serwera pilnując funkcji które są naruszane oraz sprawdzając każdego z graczy na bierząco. Każda wykryta aktywność jest monitorowana i przekazywana do właścicieli jak i do konsoli serwera.
+
+## Zakres działania - Wykrywanie oszustw
+**FP AC** - bo tak brzmi skrótowa wersja nazwy dla tego zasobu - obejmuje na ten moment takie formy oszustwa jak;
+- **Speed Hack**: Gracze poruszający się szybciej niż normalnie.
+- **Aimbot**: Automatyczne celowanie i strzelanie.
+- **Wallhack**: Przenikanie przez ściany lub obiekty.
+- **God Mode**: Niezniszczalność lub nieskończone zdrowie.
+- **Teleport Hack**: Natychmiastowe przenoszenie się po mapie.
+
+## Reakcje na oszustwa
 
