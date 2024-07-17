@@ -1,4 +1,6 @@
-# Licencja Własnościowa
+# WSTĘP 
+
+## Licencja Własnościowa
 - Niniejszy kod źródłowy jest własnością Mysteyam. Przez korzystanie z tego kodu akceptujesz poniższe warunki:
 - Zakaz Edycji: Nie masz prawa edytować, modyfikować ani zmieniać kodu źródłowego w jakikolwiek sposób. Kod musi być używany w jego oryginalnej formie.
 - Zakaz Rozpowszechniania: Nie masz prawa rozpowszechniać, kopiować, udostępniać ani dystrybuować kodu źródłowego w jakiejkolwiek formie, zarówno w całości, jak i w części.
@@ -8,3 +10,13 @@
 - Odpowiedzialność: Mysteyam nie ponosi odpowiedzialności za jakiekolwiek szkody wynikłe z użytkowania tego kodu źródłowego. Użytkownik korzysta z kodu na własne ryzyko.
 - Zmiany w Licencji: Mysteyam zastrzega sobie prawo do zmiany warunków niniejszej licencji w dowolnym czasie. Zmiany te będą obowiązywać od momentu opublikowania zaktualizowanej licencji.
 - Cele korzystania z kodu: Autor oprogramowania zezwala na korzystanie z użytkowanie z kodu jako zabezpieczenie na serwerze Multi Theft Auto: San Andreas zgodnie z regulaminem aplikacji.
+
+## Kontakt do deweloperów 
+### Twórca kodu Mysteyam
+- Mail: projectcashmta@gmail.com
+- Discord: mysteyam
+  
+
+# O SYSTEMIE 
+
+##
