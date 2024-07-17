@@ -19,4 +19,6 @@
 
 # O SYSTEMIE 
 
-##
+## Cel systemu
+**FairPlay** to system __anticheat__ który został utworzony z myślą o twórcach serwerów na polskiej scenie Multi Theft Auto: San Andreas *(MTA:SA)*. Został on napisany przez napiętą sytuację, na jednym z zaprzyjaźnionych mi serwerów, która z czasem stała się irytująca, a ja dostałem od tego serwera zlecenie na napisanie kodu. Jednakże postanawiam wam go udostępnić, a raczej jego drobną część. Po zakup całego systemu, zachęcam kontaktować się mailem bądź poprzez Discord. System ma na celu ochronę serwera pilnując funkcji które są naruszane oraz sprawdzając każdego z graczy na bierząco. Każda wykryta aktywność jest monitorowana i przekazywana do właścicieli jak i do konsoli serwera.
+
