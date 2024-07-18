@@ -13,10 +13,19 @@
 ## Reakcje na oszustwa
 System został stworzony tak aby wykluczać oszustów z gry, niedopuszczając ich do serwera. W darmowej wersji jest to robione za pomocą kickowania gracza z serwera za każdym razem gdy zostanie wykryte oszustwo. Dlaczego kick a nie ban? Jako iż jest to __w tym momencie__ wersja BETA która może wymagać kilku drobnych poprawek, staram się o to aby nawet w takiej wersji kod nie wyrządzał zbyt dużych szkód. Dlatego właśnie wybraliśmy wyrzucanie z serwisu, zamiast banowania. Informacje o oszuście i metodzie oszukiwania zostają przekazane poprzez webhook ustalony przez właścicieli serwera.
 
+## Logowanie zdarzeń
+Każde wykrycie próby oszustwa jest przekazywane do właścicieli. Wszystko odbywa się za pomocą __webhook__. O tym czym jest webhook i jak go stworzyć, przeczytasz na samym dole. URL webhooka należy ustawić w pliku **config.lua** do WEBH_URL (całość będzie podpisana komentarzami).   
 
+## Konfiguracja
+Prócz Webhooka ustawianego przez URL, będzie kilka możliwych opcji do zrobienia. Wszystkie **dodatkowe opcje** kodu które nie są wymagane ale dodaliśmy je dla większego bezpieczeństwa, będą możliwe do włączenia bądź wyłączenia, na zaasdzie boolean *(true/false)*. Wszystko będzie się znajdowało w pliku **config.lua**.
 
+## Aktualizacje
+18.07.2024 - 29.07.2024 BRAK
 
+## Bibliografia
+*Materiały z jakich korzystałem przy tworzeniu kodu, zostaną tuaj wypisane. Źródła z których czerpałem wiedzę, w niektórych przypadkach autorzy.* 
 
+**MTA WIKI** - https://wiki.multitheftauto.com/wiki/Main_Page
 
 # POZOSTAŁE
 ## Licencja Własnościowa
