@@ -17,7 +17,7 @@ System został stworzony tak aby wykluczać oszustów z gry, niedopuszczając ic
 Każde wykrycie próby oszustwa jest przekazywane do właścicieli. Wszystko odbywa się za pomocą __webhook__. O tym czym jest webhook i jak go stworzyć, przeczytasz na samym dole. URL webhooka należy ustawić w pliku **config.lua** do WEBH_URL (całość będzie podpisana komentarzami).   
 
 ## Konfiguracja
-Prócz Webhooka ustawianego przez URL, będzie kilka możliwych opcji do zrobienia. Wszystkie **dodatkowe opcje** kodu które nie są wymagane ale dodaliśmy je dla większego bezpieczeństwa, będą możliwe do włączenia bądź wyłączenia, na zaasdzie boolean *(true/false)*. Wszystko będzie się znajdowało w pliku **config.lua**.
+Prócz Webhooka ustawianego przez URL, będzie kilka możliwych opcji do zrobienia. Wszystkie **dodatkowe opcje** kodu które nie są wymagane ale dodaliśmy je dla większego bezpieczeństwa, będą możliwe do włączenia bądź wyłączenia, na zasdzie boolean *(true/false)*. Wszystko będzie się znajdowało w pliku **config.lua**.
 
 ## Aktualizacje
 18.07.2024 - 29.07.2024 BRAK
